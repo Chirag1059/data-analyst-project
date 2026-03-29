@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+*.idea/
+
+# Data Files
+*.csv
+*.xlsx
+*.json
+*.sqlite
+*.db
